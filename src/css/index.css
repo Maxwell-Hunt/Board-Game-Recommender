@@ -1,0 +1,14 @@
+body {
+  background-color: plum;
+}
+
+ul {
+  list-style: none;
+}
+
+.search_bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em 0em;
+}
